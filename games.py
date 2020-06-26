@@ -8,3 +8,7 @@ if game == "Cricket":
 
 elif game == "football":
     print("Ronaldo")
+    print("virat Kohli")
+    print("ABD")
+    print("Dhoni")
+    print("Rohit")
