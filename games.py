@@ -5,6 +5,7 @@ if game == "Cricket":
     print("ABD")
     print("Dhoni")
     print("Rohit")
+    print("sanjay")
 
 elif game == "football":
     print("Ronaldo")
